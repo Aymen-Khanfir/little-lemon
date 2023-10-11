@@ -1,25 +1,22 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "Little lemon website",
+  "short_name": "Little Lemon",
+  "description": "The Little Lemon website is a versatile web application designed to enhance the dining experience at the restaurant. It offers users the convenience of booking a table for dine-in with flexible time selection from a dropdown menu. Additionally, it provides a user-friendly platform for online food ordering and delivery, ensuring that patrons can enjoy the restaurant's diverse menu offerings, including Italian, Mexican, Chinese, Arabic, and customizable dishes, from the comfort of their own location.",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    },
-    {
-      "src": "logo192.png",
+      "src": "/images/icons-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "/images/icons-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  ]
 }
